@@ -21,7 +21,7 @@ container.innerHTML += lista
 .map((lenguaje) => {
     return `
         <div class="card my-card d-flex" style="max-width: 18rem;">
-            <img src="${lenguaje.imagen}" class="card-img-top my-img" alt="${lenguaje.titulo}">
+            <img src="${lenguaje.imagen}" class="card-img-top my-img" alt="${lenguaje.nombre}">
             <div class="card-body ">
                 <h5>${lenguaje.nombre}</h5>
                 <p>${lenguaje.descripcion}</p>
