@@ -1,2 +1,2 @@
 # tpdom
-En este repo esta el trabajo de manejo de DOM
+En este repo esta el trabajo de manipulacion del DOM
